@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirali Chhag</h1>
-<h3 align="center" style="font-style: italic;">A passionate Web developer from India</h3>
+<h3 align="center" style="font-style: italic;">A passionate Devops Engineer from India</h3>
 
 <div style="text-align:center;">
     <img src="https://github.com/mirali-1709/mirali-1709/assets/58205024/afdcab5d-904e-483a-a043-9b147a6f3b71" alt="Profile Image" style="border-radius: 50%; width: 150%;">
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AWS courses**
 
-- 💬 Ask me about **Web Devloper**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **chhagmirali@gmail.com**
 
