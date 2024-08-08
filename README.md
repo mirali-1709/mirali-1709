@@ -2,7 +2,7 @@
 <h3 align="center" style="font-style: italic;">A passionate Devops Engineer from India</h3>
 
 <div style="text-align:center;">
-    <img src="https://github.com/mirali-1709/mirali-1709/assets/58205024/afdcab5d-904e-483a-a043-9b147a6f3b71" alt="Profile Image" style="border-radius: 50%; width: 150%;">
+    <img src="https://github.com/mirali-1709/mirali-1709/assets/58205024/fbe936f5-5872-4755-9feb-9c6c16135938)" alt="Profile Image" style="border-radius: 50%; width: 150%;">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirali-1709&label=Profile%20views&color=0e75b6&style=flat" alt="mirali-1709" /> </p>
