@@ -48,6 +48,10 @@
 ---
 
 ## 📊 GitHub Stats:
-<div align="center" style="background-color: #3B3939; padding: 20px; border-radius: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=mirali-1709&show_icons=true&theme=graywhite&hide_border=true&title_color=987461&icon_color=987461&text_color=FFFFFF&bg_color=3B3939" alt="GitHub Stats" style="margin-bottom: 20px;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirali-1709&theme=graywhite&hide_border=true&ring=987461&fire=987461&currStreakLabel=987461&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&background=3B3939" alt="GitHub Streak" style="margin-bottom: 20px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirali-1709&layout=compact&theme=graywhite&hide_border=true&title_color=987461&text_color=FFFFFF&bg_color=3B3939" alt="Top Languages" /> </div>
+<div align="center" style="background-color: #3B3939; padding: 20px; border-radius: 10px;"> 
+<img src="https://github-readme-stats.vercel.app/api?username=mirali-1709&show_icons=true&theme=graywhite&hide_border=true&title_color=987461&icon_color=987461&text_color=FFFFFF&bg_color=3B3939" alt="GitHub Stats" style="margin-bottom: 20px;" /> 
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirali-1709&theme=graywhite&hide_border=true&ring=987461&fire=987461&currStreakLabel=987461&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&background=3B3939" alt="GitHub Streak" style="margin-bottom: 20px;" />  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirali-1709&layout=compact&theme=graywhite&hide_border=true&title_color=987461&text_color=FFFFFF&bg_color=3B3939" alt="Top Languages" /> 
+</div>
 
 ---
